@@ -8,8 +8,8 @@ import { ThemeProvider } from "@/components/providers/theme-provider";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "JobTrackr — Track Your Applications",
-  description: "A professional job application tracking system",
+  title: "Teal — Track Your Applications",
+  description: "A Job Tracking Application System",
 };
 
 export default function RootLayout({
