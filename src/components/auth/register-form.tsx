@@ -53,7 +53,7 @@ export function RegisterForm() {
 
       <div className="space-y-1.5">
         <Label htmlFor="name">Full Name</Label>
-        <Input id="name" placeholder="Jane Smith" {...register("name")} />
+        <Input id="name" placeholder="Full Name" {...register("name")} />
         {errors.name && (
           <p className="text-destructive text-xs">{errors.name.message}</p>
         )}

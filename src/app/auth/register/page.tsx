@@ -11,7 +11,7 @@ export default function RegisterPage() {
           <div className="h-9 w-9 rounded-lg bg-primary flex items-center justify-center">
             <Briefcase className="h-5 w-5 text-primary-foreground" />
           </div>
-          <span className="text-2xl font-bold text-foreground">JobTrackr</span>
+          <span className="text-2xl font-bold text-foreground">Teal</span>
         </div>
         <p className="text-muted-foreground text-sm">
           Start tracking your job search journey
