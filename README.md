@@ -1,4 +1,4 @@
-# 🎯 JobTrackr
+# 🎯 Teal - Job Tracking Application
 
 A full-stack job application tracking system built with Next.js 15 App Router. Track your entire job search pipeline — from wishlist to offer — with a clean dark-mode dashboard, analytics, and interview scheduling.
 
